@@ -1,9 +1,10 @@
+![logo](https://github.com/KushalTewari/KushalTewari/blob/main/Kushal%20Tewari.png)
 <h1 align="center">Hi 👋, I'm Kushal Tewari</h1>
 <h3 align="center">A passionate frontend developer from India with 2 years of hands-on experience in crafting immersive digital experiences. 🚀 My skill set includes mastering the art of HTML, CSS, and JavaScript, while also wielding the power of ReactJS, TypeScript, Redux, and Redux Toolkit. 💻✨ Join me on this journey of turning ideas into pixel-perfect realities and creating seamless, user-centric interfaces. Let's build the future of the web together! 🌐🛠️ #FrontendDeveloper #ReactJS #TypeScript #Redux</h3>
 
-<img align="center" width="100%" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="coding"/>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushaltewari" alt="kushaltewari" /></a> </p>
+<img align="right" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="coding"/>
+
 
 - 🔭 I’m currently working at **CEDCOSS Technologies Pvt. Ltd.**
 
